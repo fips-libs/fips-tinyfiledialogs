@@ -1,0 +1,7 @@
+#
+# fips-tinyfiledialog
+#
+---
+exports :
+    header-dirs :
+        - tinyfiledialog 
